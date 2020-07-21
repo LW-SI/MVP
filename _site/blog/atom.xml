@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Hank Quinlan's Blog</title>
+	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://hankquinlan.github.io/blog"/>
+	<updated>2020-07-21T21:15:12+01:00</updated>
+	<id>http://hankquinlan.github.io/blog</id>
+	<author>
+		<name>Hank Quinlan</name>
+		<email>hankquinlanhub@gmail.com</email>
+	</author>
+
+	
+		<entry>
+			<title>Website Creation Test</title>
+			<link href="http://hankquinlan.github.io/2020/07/21/website-creation-test.html"/>
+			<updated>2020-07-21T00:00:00+01:00</updated>
+			<id>http://hankquinlan.github.io/2020/07/21/website-creation-test</id>
+			<content type="html">&lt;hr /&gt;
+&lt;p&gt;layout: post
+title: Test Post
+date: 2020-07-19
+___&lt;/p&gt;
+
+&lt;p&gt;This is a test blog post.&lt;/p&gt;
+</content>
+		</entry>
+	
+
+</feed>
