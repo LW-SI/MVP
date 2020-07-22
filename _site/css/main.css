@@ -1,3 +1,9 @@
+#assets/css/main.scss
+---
+---
+@import "main";
+@import 'bootstrap/bootstrap';
+
 :root {
   --grid-gap: 15px;
 }
