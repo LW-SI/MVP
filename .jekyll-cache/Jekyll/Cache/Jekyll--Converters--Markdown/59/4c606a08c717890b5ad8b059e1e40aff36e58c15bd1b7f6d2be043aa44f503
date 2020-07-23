@@ -1,4 +1,4 @@
-I"'	<p>/
+I"D	<p>/
 /
 /
 /
@@ -11,6 +11,10 @@
 <p>More information about player profiles can be found here: <a href="/profile">Player Profiles</a></p>
 
 <p>Watford want to keep the same report format that they currently use with Scout7, so we will try to replicate it as closely as possible.</p>
+
+<h3 id="reports-widget">Reports Widget</h3>
+
+<p><img src="img/reportswidget.png" alt="" /></p>
 
 <h3 id="reports-overview">Reports Overview</h3>
 
@@ -49,18 +53,10 @@
         <p>Each report will be broken down into four primary areas:</p>
 
         <ul>
-          <li>
-            <p>Physical</p>
-          </li>
-          <li>
-            <p>With The Ball</p>
-          </li>
-          <li>
-            <p>Without The Ball</p>
-          </li>
-          <li>
-            <p>Personality</p>
-          </li>
+          <li>Physical</li>
+          <li>With The Ball</li>
+          <li>Without The Ball</li>
+          <li>Personality</li>
         </ul>
       </li>
       <li>
@@ -78,6 +74,8 @@
     </ul>
   </li>
 </ul>
+
+<p><img src="img/scout7playerreport2.png" alt="" /></p>
 
 <h3 id="match-report">Match Report</h3>
 

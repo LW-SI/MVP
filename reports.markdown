@@ -17,6 +17,10 @@ More information about player profiles can be found here: [Player Profiles](/pro
 
 Watford want to keep the same report format that they currently use with Scout7, so we will try to replicate it as closely as possible.
 
+### Reports Widget
+
+![](img/reportswidget.png)
+
 ### Reports Overview
 
 ![](img/scout7_individual_player_reports.png)

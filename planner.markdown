@@ -13,4 +13,11 @@ permalink: /planner
 
 ![](img/scouting_planner_with_events.png)
 
-This page will contain a calendar and event planner
+The Planner will contain:
+- Extensive fixture list with matching assignment planner
+	- Fixture lists could be costly, might be possible to import fixtures from club
+- Administrative functions like:
+	- booking travel
+	- parking
+	- accommodation
+	- club contact information included
