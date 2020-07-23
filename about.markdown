@@ -17,75 +17,75 @@ permalink: /about
 # FMdB Pro Overview
 
 ## What is it?
-An online platform (with offline capabilities) using an customizable interface made from interchangeable pre-built modules to suit the recruitment and research needs of an individual scouting department, where collected data is owned by the club. 
+- An online platform (with offline capabilities) using an customizable interface made from interchangeable pre-built modules to suit the recruitment and research needs of an individual scouting department, where collected data is owned by the club. 
 
 
 ## What is it not?
 
-A generic scout report tool used by many different clubs where data is owned by the service provider. 
+- A generic scout report tool used by many different clubs where data is owned by the service provider. 
 
 
 ## Who is it for?
-Clubs that require any or all of the following:
+- Clubs that require any or all of the following:
 
-- sophisticated and bespoke organisation of their recruitment operations
-- collection of their scouting reports into a searchable database
-- reliable information on their existing targets
-- assistance in the identification of new targets
+	- sophisticated and bespoke organisation of their recruitment operations
+	- collection of their scouting reports into a searchable database
+	- reliable information on their existing targets
+	- assistance in the identification of new targets
 
-The multitude of functions would also make the software useful for football professionals outside of clubs such as: 
+- The multitude of functions would also make the software useful for football professionals outside of clubs such as: 
 
-- media
-- journalists
-- agents
-- oddsmakers 
+	- media
+	- journalists
+	- agents
+	- oddsmakers 
 
 
 ## What are the Pillars of the product?
 
-For the product to be worthwhile and competitive in the market, there are six core Pillars that must be achieved:
+- For the product to be worthwhile and competitive in the market, there are six core Pillars that must be achieved:
 
-- Ease of use
-- Speed
-- Offline functionality
-- Mobile functionality
-- Translation support
-- Data owned by user, not provider
+	- Ease of use
+	- Speed
+	- Offline functionality
+	- Mobile functionality
+	- Translation support
+	- Data owned by user, not provider
 
 
 #### Ease of Use
 
-The user base will include a wide range of users with variying levels of computer literacy
-The product must be useable by both the data analyst and the old school scout or club owner
-It should be quick to learn to minimize barriers to entry for use
+- The user base will include a wide range of users with variying levels of computer literacy
+- The product must be useable by both the data analyst and the old school scout or club owner
+- It should be quick to learn to minimize barriers to entry for use
 
 
 #### Speed
 
-As the product will be used out in a live environment where data will need be recorded quickly, speed is essential
-The database also needs to be queried and extracted quickly to prevent frustration
+- As the product will be used out in a live environment where data will need be recorded quickly, speed is essential
+- The database also needs to be queried and extracted quickly to prevent frustration
 
 
 #### Offline Functionality
 
-The product will need to be used in environments with limited on no internet connectivity (football stadiums, cars, trains, planes etc)
+- The product will need to be used in environments with limited on no internet connectivity (football stadiums, cars, trains, planes etc)
 
 
 #### Mobile Functionality
 
-Product will need to be used in environments where the user is unable to use desktops/laptops (football stadiums, cars, trains, planes etc)
+- Product will need to be used in environments where the user is unable to use desktops/laptops (football stadiums, cars, trains, planes etc)
 
 
 #### Translation Support
 
-Product will need to be accessible to an international audience to reflect the global nature of modern football
-Particularly useful for organisations such as Watford/Udinese with an international team
+- Product will need to be accessible to an international audience to reflect the global nature of modern football
+- Particularly useful for organisations such as Watford/Udinese with an international team
 
 
 #### Data owned by user, not provider
 
-Most equivalent products retain ownership of data that is generated and collected
-This product will guarantee users ownership and manipulation of their own data
+- Most equivalent products retain ownership of data that is generated and collected
+- This product will guarantee users ownership and manipulation of their own data
 
 
 ## What is the minimum viable product? (for initial launch with Watford FC)
