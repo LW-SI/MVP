@@ -143,8 +143,8 @@ This product will guarantee users ownership and manipulation of their own data
 ## What are the stretch goals? (for initial launch with Watford FC)
 
 - Mobile/tablet/offline functionality
-- 	This is a product Pillar and something that will be at the core of the application long-term
-- 	However in the short-term Watford are comfortable with this being a stretch goal rather than part of the minimum viable product
+	- This is a product Pillar and something that will be at the core of the application long-term
+	- However in the short-term Watford are comfortable with this being a stretch goal rather than part of the minimum viable product
 - User Audit Tool to analyse user's contributions (what's been going on in the system)
 - Depth Charts
 	- Current Season Depth Chart
@@ -180,5 +180,5 @@ This product will guarantee users ownership and manipulation of their own data
 
 
 ## When does the project need to be completed? 
-Watford want to use the platform for the January 2021 transfer window
-Probably need to revisit this given scope and time remaining
+- Watford want to use the platform for the January 2021 transfer window
+- Probably need to revisit this given scope and time remaining
