@@ -1,7 +1,7 @@
 name: FMdB Test
 markdown: kramdown
 permalink: /scouting
-baseurl: "/scouting"
+baseurl: "/scouting/"
 
 sass:
   sass_dir: assets/css
