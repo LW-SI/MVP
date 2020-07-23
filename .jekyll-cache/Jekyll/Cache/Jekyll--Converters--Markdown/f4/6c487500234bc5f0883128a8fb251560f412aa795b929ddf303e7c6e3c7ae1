@@ -1,0 +1,203 @@
+I"�<p>/
+/
+/
+/
+/</p>
+
+<h1 id="fmdb-pro-overview">FMdB Pro Overview</h1>
+
+<h2 id="what-is-it">What is it?</h2>
+<p>An online platform (with offline capabilities) using an customizable interface made from interchangeable pre-built modules to suit the recruitment and research needs of an individual scouting department, where collected data is owned by the club.</p>
+
+<h2 id="what-is-it-not">What is it not?</h2>
+
+<p>A generic scout report tool used by many different clubs where data is owned by the service provider.</p>
+
+<h2 id="who-is-it-for">Who is it for?</h2>
+<p>Clubs that require any or all of the following:</p>
+
+<ul>
+  <li>sophisticated and bespoke organisation of their recruitment operations</li>
+  <li>collection of their scouting reports into a searchable database</li>
+  <li>reliable information on their existing targets</li>
+  <li>assistance in the identification of new targets</li>
+</ul>
+
+<p>The multitude of functions would also make the software useful for football professionals outside of clubs such as:</p>
+
+<ul>
+  <li>media</li>
+  <li>journalists</li>
+  <li>agents</li>
+  <li>oddsmakers</li>
+</ul>
+
+<h2 id="what-are-the-pillars-of-the-product">What are the Pillars of the product?</h2>
+
+<p>For the product to be worthwhile and competitive in the market, there are six core Pillars that must be achieved:</p>
+
+<ul>
+  <li>Ease of use</li>
+  <li>Speed</li>
+  <li>Offline functionality</li>
+  <li>Mobile functionality</li>
+  <li>Translation support</li>
+  <li>Data owned by user, not provider</li>
+</ul>
+
+<h4 id="ease-of-use">Ease of Use</h4>
+
+<p>The user base will include a wide range of users with variying levels of computer literacy
+The product must be useable by both the data analyst and the old school scout or club owner
+It should be quick to learn to minimize barriers to entry for use</p>
+
+<h4 id="speed">Speed</h4>
+
+<p>As the product will be used out in a live environment where data will need be recorded quickly, speed is essential
+The database also needs to be queried and extracted quickly to prevent frustration</p>
+
+<h4 id="offline-functionality">Offline Functionality</h4>
+
+<p>The product will need to be used in environments with limited on no internet connectivity (football stadiums, cars, trains, planes etc)</p>
+
+<h4 id="mobile-functionality">Mobile Functionality</h4>
+
+<p>Product will need to be used in environments where the user is unable to use desktops/laptops (football stadiums, cars, trains, planes etc)</p>
+
+<h4 id="translation-support">Translation Support</h4>
+
+<p>Product will need to be accessible to an international audience to reflect the global nature of modern football
+Particularly useful for organisations such as Watford/Udinese with an international team</p>
+
+<h4 id="data-owned-by-user-not-provider">Data owned by user, not provider</h4>
+
+<p>Most equivalent products retain ownership of data that is generated and collected
+This product will guarantee users ownership and manipulation of their own data</p>
+
+<h2 id="what-is-the-minimum-viable-product-for-initial-launch-with-watford-fc">What is the minimum viable product? (for initial launch with Watford FC)</h2>
+<ul>
+  <li>A searchable repository for a club’s scout reports</li>
+  <li>A way to organise scouting assignments</li>
+  <li>A recruitment planning board where shortlists can be created</li>
+  <li>An interface to search the FM database for players/user-created content</li>
+  <li>A dashboard from which to access the other features and view key information at a glance</li>
+</ul>
+
+<h4 id="scout-reports">Scout Reports</h4>
+
+<ul>
+  <li>Match Reports</li>
+  <li>Player Reports</li>
+  <li>Sortable, filterable search interface</li>
+</ul>
+
+<h4 id="scouting-assignment-organisation">Scouting Assignment Organisation</h4>
+
+<ul>
+  <li>Scouting Planner</li>
+  <li>Individual Event Planner</li>
+  <li>Fixture Lists</li>
+  <li>Staff/Scout Profiles</li>
+  <li>Notification System</li>
+</ul>
+
+<h4 id="recruitment-planning-board">Recruitment Planning Board</h4>
+
+<ul>
+  <li>Shortlists</li>
+</ul>
+
+<h4 id="fm-database-search">FM Database Search</h4>
+
+<ul>
+  <li>Sortable, filterable search interface similar to FM Player Search/FM Scout</li>
+  <li>Player Profiles with following subsections:
+    <ul>
+      <li>Overview</li>
+      <li>FM Attributes</li>
+      <li>Valuation</li>
+      <li>Contract</li>
+      <li>Stats</li>
+      <li>Health</li>
+      <li>Training</li>
+      <li>Comparison</li>
+      <li>Media</li>
+      <li>Bio</li>
+      <li>History</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="dashboard">Dashboard</h4>
+
+<ul>
+  <li>Scouting Planner Widget</li>
+  <li>Reports Widget</li>
+  <li>Shortlists Widget</li>
+  <li>Scouting History Widget</li>
+</ul>
+
+<h2 id="what-are-the-stretch-goals-for-initial-launch-with-watford-fc">What are the stretch goals? (for initial launch with Watford FC)</h2>
+
+<ul>
+  <li>Mobile/tablet/offline functionality</li>
+  <li>This is a product Pillar and something that will be at the core of the application long-term</li>
+  <li>However in the short-term Watford are comfortable with this being a stretch goal rather than part of the minimum viable product</li>
+  <li>User Audit Tool to analyse user’s contributions (what’s been going on in the system)</li>
+  <li>Depth Charts
+    <ul>
+      <li>Current Season Depth Chart</li>
+      <li>Future Depth Chart</li>
+      <li>Conceptual Depth Chart</li>
+    </ul>
+  </li>
+  <li>Comparison</li>
+  <li>Watford to confirm final list of stretch goals</li>
+</ul>
+
+<h2 id="what-features-would-the-ideal-product-include">What features would the ideal product include?</h2>
+<ul>
+  <li>Improved assessment tools</li>
+  <li>Integrated video player
+    <ul>
+      <li>Should be an option to either use the package provided by SI or integrate the user’s existing video software package subscription (Wyscout, Instat etc)</li>
+    </ul>
+  </li>
+  <li>Playing style insights</li>
+  <li>Improved identification tools</li>
+  <li>Points-Based Performance Analysis tool
+    <ul>
+      <li>Watford have a version of this based around what they call ‘Snapshots’</li>
+    </ul>
+  </li>
+  <li>Quick Search
+    <ul>
+      <li>Quick Search dropdown in title with ability to apply filters</li>
+      <li>Display recent searches</li>
+      <li>Favourites/Save Searches</li>
+    </ul>
+  </li>
+  <li>Use of FM Researchers as scouts
+    <ul>
+      <li>In-app functionality would be fairly easy to implement</li>
+      <li>Would however require lengthy process recruitment and training of researchers (after establishing training regime)</li>
+    </ul>
+  </li>
+  <li>Improved Dashboard
+    <ul>
+      <li>Personal Diary widget</li>
+      <li>League Tables widget</li>
+      <li>Statistical Insights widget</li>
+      <li>Improved Reports</li>
+      <li>Position-Based Reports</li>
+      <li>Watford don’t want this</li>
+    </ul>
+  </li>
+  <li>Speech-To-Text for dictated scout reports</li>
+  <li>Presentation Editor</li>
+</ul>
+
+<h2 id="when-does-the-project-need-to-be-completed">When does the project need to be completed?</h2>
+<p>Watford want to use the platform for the January 2021 transfer window
+Probably need to revisit this given scope and time remaining</p>
+:ET
