@@ -1,6 +1,6 @@
 name: FMdB Test
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /scouting
 baseurl: "/scouting"
 
 sass:
