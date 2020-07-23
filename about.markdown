@@ -143,7 +143,7 @@ This product will guarantee users ownership and manipulation of their own data
 ## What are the stretch goals? (for initial launch with Watford FC)
 
 - Mobile/tablet/offline functionality
-	- This is a product Pillar and something that will be at the core of the application long-term
+	- This is a product pillar and something that will be at the core of the application long-term
 	- However in the short-term Watford are comfortable with this being a stretch goal rather than part of the minimum viable product
 - User Audit Tool to analyse user's contributions (what's been going on in the system)
 - Depth Charts
