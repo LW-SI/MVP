@@ -1,0 +1,80 @@
+I"�<p>/
+/
+/
+/
+/
+/
+/</p>
+
+<h1 id="reports">Reports</h1>
+
+<p>More information about player profiles can be found here: <a href="/profile">Player Profiles</a></p>
+
+<p>Watford want to keep the same report format that they currently use with Scout7, so we will try to replicate it as closely as possible.</p>
+
+<h3 id="reports-overview">Reports Overview</h3>
+
+<p><img src="img/scout7_individual_player_reports.png" alt="" /></p>
+
+<h3 id="create-report">Create Report</h3>
+<ul>
+  <li>User is given the option to create a report from either a Match or Player template
+    <ul>
+      <li>Position-specific reports will be possible in future but Watford do not want this functionality.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="img/scout7createreport.png" alt="" /></p>
+
+<h3 id="player-report">Player Report</h3>
+
+<ul>
+  <li>As much information (height/weight etc) will be pre-filled as possible.</li>
+</ul>
+
+<p><img src="img/scout7playerreport.png" alt="" /></p>
+
+<h5 id="recommendation-options">Recommendation options</h5>
+
+<p><img src="/img/scout7playerreport1.png" alt="" /></p>
+
+<ul>
+  <li>Watford player report requests:
+    <ul>
+      <li>
+        <p>Individual reports will have the basic match information as seen above in the Match Report, including the starting line ups diagram.</p>
+      </li>
+      <li>
+        <p>Each report will be broken down into four primary areas:</p>
+
+        <ul>
+          <li>Physical</li>
+          <li>With The Ball</li>
+          <li>Without The Ball</li>
+          <li>Personality</li>
+        </ul>
+      </li>
+      <li>
+        <p>Each has specific characteristics within those categories to be scored and commented on, along with a final “Gut Instinct” score.</p>
+      </li>
+      <li>
+        <p>As mentioned, each report will have a total of 12 categories to score, with each attribute being scored out of four:</p>
+        <ul>
+          <li>1 = poor</li>
+          <li>2 = didn’t show enough quality to fit our profile</li>
+          <li>3 = shows potential to fit the profile</li>
+          <li>4 = fits the profile.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="img/scout7playerreport2.png" alt="" /></p>
+
+<h3 id="match-report">Match Report</h3>
+
+<p><img src="img/scout7matchreport.png" alt="" /></p>
+
+:ET
