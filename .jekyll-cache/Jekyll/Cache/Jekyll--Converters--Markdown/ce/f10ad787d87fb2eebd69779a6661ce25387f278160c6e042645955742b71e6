@@ -1,0 +1,147 @@
+I"}<p>/
+/
+/
+/
+/</p>
+
+<h1 id="user-focused-product-description">User-focused Product Description</h1>
+<h3 id="case-study-technical-director-a-substantial-bid-arrives-for-abdoulaye-doucoure-what-should-i-do">Case Study (Technical Director): A substantial bid arrives for Abdoulaye Doucoure. What should I do?</h3>
+
+<h4 id="1-use-the-players-profile-to-make-an-initial-assessment">1. Use the Player’s Profile to make an initial assessment</h4>
+
+<p><img src="img/doucourefmprofiile.png" alt="Doucoure profile" /></p>
+
+<p><em>Doucoure’s FM20 profile</em></p>
+
+<p><img src="img/rodakscout7profile.png" alt="Scout7 Profile" /></p>
+
+<p><em>Example of a Scout7 profile</em></p>
+
+<hr />
+
+<ul>
+  <li>Use Valuation screen to get an assessment of the player and see if the bid matches his value (PLAYER PROFILE - VALUATION)</li>
+  <li>Player value displayed on their profile, clicking their value navigates to Valuation screen</li>
+  <li>Breakdown of how player’s value is calculated (ability, contract years left etc)</li>
+  <li>Check player’s recent statistical form (PLAYER PROFILE - STATS)</li>
+  <li>Compact graph on profile, clicking on it navigates to fuller statistical overview</li>
+</ul>
+
+<p>(As in FM, a player’s profile will have different features when they play for the user’s team than if they play for another team)</p>
+
+<p><img src="img/smarterscout.png" alt="Smarterscout" /></p>
+
+<p><em>Player Profile screen from Smarterscout</em></p>
+
+<p><img src="img/smarterscoutradar.png" alt="Smarterscout radar" /></p>
+
+<p><em>Player Radar from Smarterscout</em></p>
+
+<ul>
+  <li>Check training data (PLAYER PROFILE - TRAINING)</li>
+  <li>View player’s medical notes/injury history (PLAYER PROFILE - HEALTH)</li>
+  <li>Assess current squad situation and how his departure would affect squad makeup (SQUAD - DEPTH)</li>
+  <li>View future depth charts and see if there will be a solution in the position in future years (SQUAD - FUTURE DEPTH)</li>
+  <li>Compare player to other’s in the squad (PLAYER PROFILE - COMPARISON)</li>
+  <li>Check contractual information (PLAYER PROFILE - CONTRACT)</li>
+  <li>Speak to player’s agent (PLAYER PROFILE - CONTRACT)</li>
+  <li>View player’s playing history for club and country (PLAYER PROFILE - HISTORY)</li>
+  <li>Check recent news about their player and their social media accounts (PLAYER PROFILE - MEDIA)</li>
+  <li>View player’s FM biography (PLAYER PROFILE - BIO)</li>
+  <li>Link to Wikipedia in language of user’s choosing</li>
+</ul>
+
+<h4 id="2-identify-a-potential-replacement">2. Identify a potential replacement</h4>
+
+<ul>
+  <li>Search existing reports for central midfielders (REPORTS)</li>
+  <li>Use ‘Find Replacement’ tool to auto-generate list of players with similar FM attributes (SCOUTING)</li>
+  <li>Filter by players with similar ‘Playing Styles’</li>
+  <li>Generate a list of statistically similar players (SCOUTING)</li>
+  <li>Manually search FM database for central midfielders (SCOUTING)</li>
+  <li>Search players tagged with ‘Offered by Agent’ (SCOUTING - TAGS)</li>
+  <li>Use ‘Player Comparison’ tool to judge players against Doucoure, other squad members and other potential candidates (PLAYER PROFILE - COMPARISON)</li>
+</ul>
+
+<h4 id="3-create-shortlists">3. Create Shortlists</h4>
+
+<ul>
+  <li>Add suitable players to shortlist created for this specific task (SHORTLIST)</li>
+  <li>Shortlist columns include Name, Club, Nation, Position, Value, Scouted (Y/N), CA, PA, Report Average, - Recommendation, Next Fixture (with link to game to assign scout), Agent</li>
+  <li>Shortlist viewable both as a widget and in a dedicated page</li>
+</ul>
+
+<p><img src="img/scout7dashboardshortlist.png" alt="Scout7 Dashboard shortlist" /></p>
+
+<p><em>Scout7 shortlist as a widget</em></p>
+
+<p><img src="img/scout7shortlist.png" alt="Shortlist screen" /></p>
+
+<p><em>Scout7 Shortlist Screen</em></p>
+
+<ul>
+  <li>Sort players into order of preference (SHORTLIST - SORT)</li>
+  <li>Use shortlist comparison to find the best player on the shortlist in specific attributes/statistics (SHORTLIST - COMPARISON)</li>
+  <li>Remove unsuitable players/move them to another shortlist (SHORTLIST)</li>
+  <li>Assign scouts to view selected players (PLANNER)
+    <ul>
+      <li>The Event Planner makes it very easy to organise an individual scouting trip on one page</li>
+      <li>It will be connected to an extensive list of matches and auto-populate based on the match chosen</li>
+    </ul>
+  </li>
+  <li>Scout receives an email and/or phone notification once the event planning is completed, as well as email/notification of any updates to the event</li>
+</ul>
+
+<p><img src="img/scouting_planner_with_events_small.png" alt="Event Planner" /></p>
+
+<p><em>Scout7 Event Planner</em></p>
+
+<ul>
+  <li>User can ‘watch’ shortlist to be notified/emailed of any changes/reports on players on the shortlist (SHORTLIST)</li>
+  <li>Add players to depth charts including current players to see how they would impact squad makeup (SQUAD- CONCEPTUAL DEPTH)</li>
+</ul>
+
+<h4 id="4-acquire-targets">4. Acquire Targets</h4>
+
+<ul>
+  <li>Refine list further after reading scout reports (SHORTLIST)</li>
+  <li>If a firm decision has been made to pursue a player, tag them as ‘Target’ or ‘Top Target’ (SHORTLIST)</li>
+  <li>Use ‘Presentation Editor’ to create a full report on targets to present to decision makers (PRESENTATION)</li>
+</ul>
+
+<p><img src="img/keynotepresentation.png" alt="Keynote Presentation" /></p>
+
+<p><em>Example of Keynote player presenation currently used by Watford</em></p>
+
+<ul>
+  <li>Contact players’ agents and check availability (PLAYER PROFILE - CONTRACT)</li>
+  <li>Contact players’ clubs and check availability (PLAYER PROFILE - CONTRACT)</li>
+</ul>
+
+<p>Once these steps have been taken, the Technical Director should have all of the information required to make an informed decision on whether to accept/negotiate the bid for Doucoure with a strong list of options to replace him should the player leave.</p>
+
+<h2 id="case-study-technical-director-after-a-disappointing-transfer-window-how-to-prepare-better-for-the-next-one">Case Study: (Technical Director) After a disappointing transfer window, how to prepare better for the next one?</h2>
+
+<h4 id="1-assess-entire-recruitment-organisation-with-the-audit-tool">1. Assess entire recruitment organisation with the Audit Tool</h4>
+<ul>
+  <li>‘Window Review’ analyses recruitment activity over a set period (default of 6 months for Summer/Winter windows but editable) (WINDOW REVIEW)</li>
+  <li>Check that there were suitable targets on the club’s radar throughout the window</li>
+  <li>‘Timeline’ allows the user to view dashboards on certain dates and scroll through chronologically, day-by-day (TIMELINE)</li>
+  <li>‘Scouting History’ shows all reports within a certain time period (SCOUTING HISTORY)</li>
+</ul>
+
+<p><img src="img/scouting_history.png" alt="" /></p>
+
+<p><em>Scout7 Scouting History</em></p>
+
+<h4 id="2-assess-individuals-with-scout-records">2. Assess Individuals with Scout Records</h4>
+
+<ul>
+  <li>The Staff/Organisation screen shows all recruitment staff along with stats like total reports (STAFF)</li>
+  <li>Staff Profiles (STAFF PROFILE)</li>
+  <li>Show all reports that they have submitted and a planner of their past and future games</li>
+  <li>Averages of their scoring history</li>
+  <li>Data on their recommended players that are on shortlists and that have been signed</li>
+  <li>Would need to have some sort of way of rating scout performance</li>
+</ul>
+:ET

@@ -1,0 +1,22 @@
+---
+layout: default
+title: "Search"
+permalink: /search
+---
+
+/
+/
+/
+/
+/
+/
+
+# Search
+
+
+<img src="img/search_screen.png">
+<img src="img/query_builder.png">
+
+<p>Could take the form of either standard FM Search screen or have a more advanced query builder in like ORDB. </p>
+
+
