@@ -92,7 +92,7 @@ This product will guarantee users ownership and manipulation of their own data
 - A searchable repository for a club's scout reports
 - A way to organise scouting assignments
 - A recruitment planning board where shortlists can be created
-- An interface to search the FM database for players/user-created content
+- An interface to search the FM database for players/other FM data
 - A dashboard from which to access the other features and view key information at a glance
 
 #### Scout Reports
