@@ -11,7 +11,7 @@ permalink: /profile
 
 ![](img/scout7playerprofileannotated.png)
 
-*Scout7 Player Profile with Jamie Benson's annotation*
+*Edited Scout7 Player Profile with Jamie Benson's additions and annotation*
 
 Watford requests:
 
@@ -26,3 +26,58 @@ Watford requests:
 > Polygon (top right) to show both FM data and/or metrics
 >
 > Graph/Table (bottom left) to be user configurable/change axes based on user reports"
+
+***
+
+Player profiles will be similar to those found in FM, but altered to provide relevant information.
+
+	- Overview
+		- Dashboard style player overview
+
+	- FM Attributes
+		- With real-life seasonal data
+
+	- Reports
+		- Actual reports from scouts
+		- Generated reports using game code
+
+	- Valuation
+		- Transfer value estimate
+		- Wage estimate
+		- Breakdown of how these figures are calculated
+
+	- Contract
+		- All contractual details, clauses
+		- Contract history (not MVP)
+
+	- Stats
+		- Current season and historical statistics
+		- Data visualisation
+			- Positional player radars
+			- Playing Style analysis
+			- Ranking against team/league/world
+		- Needs dedicated data partner
+
+	- Health
+		- FM injury history for historical injury data
+		- Data partner such as physioroom for current season
+
+	- Training
+		- Integration of training data
+
+	- Comparison
+		- Compare on statistical metrics or FM data
+
+	- Media
+		Links to social media and recent pertinent news stories
+
+	- Bio
+		- FM generated bio
+		- Wikipedia links (Watford like this)
+
+	- History
+		- Playing HIstory
+		- Colleague History
+			- Query finding everyone that the player has played with or played for in the past and highlighting current team/staff members
+
+Longer term a video player/clip editor will be integrated into a player's profile if a suitable data provider can be found. 

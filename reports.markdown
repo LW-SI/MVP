@@ -21,9 +21,14 @@ Watford want to keep the same report format that they currently use with Scout7,
 
 ![](img/reportswidget.png)
 
+This will be displayed on the dashboard. Clicking it will take the user to the Reports Overview.
+
 ### Reports Overview
 
 ![](img/scout7_individual_player_reports.png)
+
+Here the user can see all reports (listed chronologically descending by default but this will be editable).
+From either this screen or the dashboard, a user can create a report. 
 
 ### Create Report
 - User is given the option to create a report from either a Match or Player template

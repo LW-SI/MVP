@@ -12,7 +12,12 @@ permalink: /features
 
 # Features
 
-<p style='margin-top: 60px'>A list of post-MVP features</p>
+<p style='margin-top: 30px'>A list of post-MVP features</p>
 
-<a href="/audit">Audit</a>
-<a href="snapshot.html">Snapshot Tool</a>
+[Snapshot Tool](/snapshot)
+
+[Statistical Insight Widgets](/insights)
+
+[Playing Styles](/styles)
+
+[]()
