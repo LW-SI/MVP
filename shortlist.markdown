@@ -26,5 +26,3 @@ Below was requested from Watford for this feature:
 > Separately, scouts can create their own shortlists and ‘lock’ it so only they can view it.
 >
 > The way in which these are displayed are decided by the user with the flexibility to display in list format as well as pitch view."
-
-There would also be functionality similar to FM's shortlisting. 

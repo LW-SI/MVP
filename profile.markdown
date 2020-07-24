@@ -29,7 +29,8 @@ Watford requests:
 
 ***
 
-Player profiles will be similar to those found in FM, but altered to provide relevant information.
+- Player profiles will be similar to those found in FM, but altered to provide relevant information.
+- As in FM, a player’s profile will have different features when they play for the user’s team than if they play for another team.
 
 	- Overview
 		- Dashboard style player overview
@@ -81,3 +82,16 @@ Player profiles will be similar to those found in FM, but altered to provide rel
 			- Query finding everyone that the player has played with or played for in the past and highlighting current team/staff members
 
 Longer term a video player/clip editor will be integrated into a player's profile if a suitable data provider can be found. 
+
+
+![Scout7 Profile](img/rodakscout7profile.png)
+
+*Example of a Scout7 profile*
+
+![Smarterscout](img/smarterscout.png)
+
+*Player Profile screen from Smarterscout*
+
+![Smarterscout radar](img/smarterscoutradar.png)
+
+*Player Radar from Smarterscout*

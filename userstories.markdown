@@ -14,18 +14,11 @@ permalink: /userstories
 
 #### 1. Use the Player’s Profile to make an initial assessment
 
-
+More information about player profiles can be found here: [Player Profiles](/profile)
 
 ![Doucoure profile](img/doucourefmprofiile.png)
 
 *Doucoure's FM20 profile*
-
-
-![Scout7 Profile](img/rodakscout7profile.png)
-
-*Example of a Scout7 profile*
-
-***
 
 
 - Use Valuation screen to get an assessment of the player and see if the bid matches his value (PLAYER PROFILE - VALUATION)
@@ -33,19 +26,6 @@ permalink: /userstories
 - Breakdown of how player’s value is calculated (ability, contract years left etc)
 - Check player’s recent statistical form (PLAYER PROFILE - STATS)
 - Compact graph on profile, clicking on it navigates to fuller statistical overview
-
-(As in FM, a player’s profile will have different features when they play for the user’s team than if they play for another team)
-
-
-![Smarterscout](img/smarterscout.png)
-
-*Player Profile screen from Smarterscout*
-
-
-![Smarterscout radar](img/smarterscoutradar.png)
-
-*Player Radar from Smarterscout*
-
 - Check training data (PLAYER PROFILE - TRAINING)
 - View player’s medical notes/injury history (PLAYER PROFILE - HEALTH)
 - Assess current squad situation and how his departure would affect squad makeup (SQUAD - DEPTH)
@@ -75,13 +55,6 @@ permalink: /userstories
 - Add suitable players to shortlist created for this specific task (SHORTLIST)
 - Shortlist columns include Name, Club, Nation, Position, Value, Scouted (Y/N), CA, PA, Report Average, - Recommendation, Next Fixture (with link to game to assign scout), Agent
 - Shortlist viewable both as a widget and in a dedicated page
-
-
-
-![Scout7 Dashboard shortlist](img/scout7dashboardshortlist.png)
-
-*Scout7 shortlist as a widget*
-
 
 
 ![Shortlist screen](img/scout7shortlist.png)
