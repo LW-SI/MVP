@@ -29,6 +29,7 @@ More information about player profiles can be found here: [Player Profiles](/pro
 - Check training data (PLAYER PROFILE - TRAINING)
 - View player’s medical notes/injury history (PLAYER PROFILE - HEALTH)
 - Assess current squad situation and how his departure would affect squad makeup (SQUAD - DEPTH)
+- Use Conceptual Depth Chart to include Udinese players into consideration (SQUAD - CONCEPTUAL DEPTH)
 - View future depth charts and see if there will be a solution in the position in future years (SQUAD - FUTURE DEPTH)
 - Compare player to other’s in the squad (PLAYER PROFILE - COMPARISON)
 - Check contractual information (PLAYER PROFILE - CONTRACT)
