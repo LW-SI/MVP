@@ -94,4 +94,4 @@ Longer term a video player/clip editor will be integrated into a player's profil
 
 ![Smarterscout radar](img/smarterscoutradar.png)
 
-*Player Radar from Smarterscout*
+*Player Radar from Smarterscout* 
