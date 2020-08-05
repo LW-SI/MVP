@@ -1,6 +1,5 @@
 name: FMdB Test
 markdown: kramdown
-permalink: /scouting
 baseurl: ""
 
 sass:
