@@ -1,42 +1,107 @@
----
-layout: default
-title: "History"
-permalink: /history
----
+<!DOCTYPE html>
+<html>
 
-/
-/
-/
-/
-/
-/
+<head>
+    <meta charset="utf-8">
+    <title>FMdB Pro</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
 
-# History/Audit Tool
+    <!-- Demo Dependencies -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.9.6/holder.js" type="text/javascript"></script>
+    <script>
+        Holder.addTheme("white", {
+            bg: "#fff",
+            fg: "#a7a7a7",
+            size: 10
+        });
+    </script>
 
-Watford Audit Tool Requests:
-> "An Audit Tool will be essential to keep track of, and log platform activity for historical reference and review. 
->
-> By storing historical user activity the department can refer back to any changes that have been made such as:
+    <!-- keen-analysis@3 -->
+    <script src="https://cdn.jsdelivr.net/npm/keen-analysis@3/dist/keen-analysis.min.js"
+        type="text/javascript"></script>
 
-> - players being deleted from shortlists
+    <!-- keen-dataviz@3 -->
+    <link href="https://cdn.jsdelivr.net/npm/keen-dataviz@3/dist/keen-dataviz.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/keen-dataviz@3/dist/keen-dataviz.min.js" type="text/javascript"></script>
 
-> - players added to shortlists
+    <!-- Dashboard -->
+    <link rel="stylesheet" type="text/css"
+        href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
 
-> - notes added
+</head>
 
-> - teams/players watched/reported
+<body class="keen-dashboard">
 
-> - reports uploaded etc
-> 
-> Furthermore the Audit Tool can be used in a review process to critically review the recruitment processes over a season or specific transfer window (e.g. reviewing a summer transfer window as to players watched/ discarded, players highlighted, signed and actions that have been taken). 
-> 
-> By having a critical review, the department can highlight any specific needs or areas for improvement going forward (i.e. positional biases) and providing context to why certain players were targeted or not."
+    <div class="container">
+        <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="../">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                        viewBox="76.39 132.243 15.35 22" width="20" height="20" fill="#777">
+                        <defs>
+                            <path id="a"
+                                d="M88.31 136.63c.29-.28.43-.63.43-1.05 0-.41-.14-.76-.43-1.04-.08-.09-.78-.78-.86-.87-.29-.28-.64-.43-1.05-.43-.41 0-.76.15-1.05.43-.75.75-6.78 6.77-7.53 7.53-.29.28-.43.63-.43 1.04 0 .42.14.76.43 1.05.75.75 6.78 6.77 7.53 7.53.29.28.64.42 1.05.42.41 0 .76-.14 1.05-.42.08-.09.78-.78.86-.87.29-.29.43-.63.43-1.04 0-.41-.14-.76-.43-1.05-.37-.38-2.24-2.25-5.61-5.61 3.37-3.37 5.24-5.24 5.61-5.62z" />
+                        </defs>
+                        <use xlink:href="#a" />
+                        <use xlink:href="#a" />
+                    </svg>
+                </a>
+                <a class="navbar-brand" href="./">FMdB Pro Demo</a>
+            </div>
+            <div class="navbar-collapse">
+                <ul class="navbar-nav nav main-nav">
+                    <li><a href="./">Home</a></li>
+                    <li><a href="./reports">Reports</a></li>
+                    <li><a href="./planner">Planner</a></li>
+                    <li><a href="./squad">Squad</a></li>
+                    <li><a href="./shortlist">Shortlists</a></li>
+                    <li><a href="./features">Additional Features</a></li>
+                    <li><a href="./about">About</a></li>
+                    <li><a href="./userstories">User Stories</a></li>
+                    <li right="400px"><a href="./search"><img src="img/search--v2.png" height="15" width="15">Search</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
 
-![](img/audittool.png)
 
-*Scout7 Scouting History Widget*
 
-![](img/audittool1.png)
+    # History/Audit Tool
 
-*Scout7 Scouting History Page*
+    Watford Audit Tool Requests:
+    > "An Audit Tool will be essential to keep track of, and log platform activity for historical reference and review.
+    >
+    > By storing historical user activity the department can refer back to any changes that have been made such as:
 
+    > - players being deleted from shortlists
+
+    > - players added to shortlists
+
+    > - notes added
+
+    > - teams/players watched/reported
+
+    > - reports uploaded etc
+    >
+    > Furthermore the Audit Tool can be used in a review process to critically review the recruitment processes over a
+    season or specific transfer window (e.g. reviewing a summer transfer window as to players watched/ discarded,
+    players highlighted, signed and actions that have been taken).
+    >
+    > By having a critical review, the department can highlight any specific needs or areas for improvement going
+    forward (i.e. positional biases) and providing context to why certain players were targeted or not."
+
+    ![](img/audittool.png)
+
+    *Scout7 Scouting History Widget*
+
+    ![](img/audittool1.png)
+
+    *Scout7 Scouting History Page*

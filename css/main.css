@@ -26,7 +26,8 @@
 body {
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 1.1em;
+  font-weight: 600;
   line-height: 1.42857143;
 }
 
@@ -81,7 +82,7 @@ h6 {
 }
 
 .text-muted {
-  color: #777;
+  color: rgb(253, 253, 253);
 }
 
 small,
@@ -164,7 +165,7 @@ small,
   display: block;
   padding: 10px 15px;
   line-height: 20px;
-  color: #777777;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -177,7 +178,7 @@ small,
   font-size: 18px;
   line-height: 20px;
   text-decoration: none;
-  color: #777777;
+  color: #ffffff;
 }
 
 .nav-toggle {
@@ -336,13 +337,13 @@ small,
 }
 
 .navbar-inverse {
-  background-color: #222;
+  background-color: rgba(25,10,40);
   border-color: #080808;
 }
 
 .navbar-inverse .navbar-brand,
 .navbar-inverse .navbar-nav>li>a {
-  color: #777;
+  color: rgb(255, 255, 255);
 }
 
 .navbar-inverse .navbar-toggle {
@@ -459,8 +460,8 @@ button {
   display: inline-block;
   padding: 6px 12px;
   margin-bottom: 0;
-  font-size: 14px;
-  font-weight: 400;
+  font-size: 2em;
+  font-weight: 800;
   line-height: 1.42857143;
   text-align: center;
   white-space: nowrap;
@@ -658,7 +659,7 @@ button {
 .keen-dashboard {
   padding-top: 80px;
   background: #f2f2f2;
-  font-family: 'Gotham Rounded SSm A', 'Gotham Rounded SSm B', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .keen-dataviz {
@@ -747,4 +748,9 @@ button {
   .keen-dashboard .chart-wrapper {
     margin-bottom: 0;
   }
+}
+
+.identifier {
+  display: flex;
+  margin: auto;
 }
