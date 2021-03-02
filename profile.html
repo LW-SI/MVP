@@ -72,101 +72,108 @@
 	</div>
 
 	<div class="identifier">
-		<h1></h1>
+		<h1>Profiles</h1>
+	</div>
+
+	<button class="tablinkplayer" onclick="openPage('Overview', this, 'red')" id="defaultOpen">Overview</button>
+	<button class="tablinkplayer" onclick="openPage('Attributes', this, 'green')" id="defaultOpen">Attributes</button>
+	<button class="tablinkplayer" onclick="openPage('Comparison', this, 'blue')">Comparison</button>
+	<button class="tablinkplayer" onclick="openPage('Contract', this, 'orange')">Contract</button>
+	<button class="tablinkplayer" onclick="openPage('Valuation', this, 'red')">Valuation</button>
+	<button class="tablinkplayer" onclick="openPage('Reports', this, 'green')">Reports</button>
+	<button class="tablinkplayer" onclick="openPage('Assignments', this, 'blue')">Assignments</button>
+	<button class="tablinkplayer" onclick="openPage('Bio', this, 'orange')">Bio</button>
+	<button class="tablinkplayer" onclick="openPage('History', this, 'blue')">History</button>
+	<button class="tablinkplayer" onclick="openPage('Notes', this, 'orange')">Notes</button>
+
+	<div id="Overview" class="tabcontent">
+		<p>Edited Scout7 Player Profile with Jamie Benson's additions and annotation</p>
+		<img src="img/scout7playerprofileannotated.png" alt="">
+
+		<p> Watford requests:
+			Within the platform there will be a database of players from around the world which when Searched or
+			clicked on,
+			will link to an individual page.
+			The player profile will have key background information clearly displayed, as well as an audit of
+			activity
+			based
+			on any reports, notes or information scouts have added to his profile.
+			Additionally, he will have statistical information based on clearly defined KPI’s and a table/chart
+			highlighting his scores given (if he has been reported on).User-configurable widgets/views to show
+			useful
+			information
+			Polygon (top right) to show both FM data and/or metrics
+			Graph/Table (bottom left) to be user configurable/change axes based on user reports</p>
+
+		<p>A typical scout7 profile overview</p>
+		<img src="img/rodakscout7profile.png" alt="">
+
+
+	</div>
+
+	<div id="Attributes" class="tabcontent">
+		<img src="img/deeney_attributes.png" alt="">
+	</div>
+
+	<div id="Comparison" class="tabcontent">
+		<img src="img/deeneycomparison.png" alt="">
+	</div>
+
+	<div id="Contract" class="tabcontent">
+		<img src="img/deeneycontract.png" alt="">
+	</div>
+
+	<div id="Valuation" class="tabcontent">
+		<img src="img/deeneyvaluation.png" alt="">
+	</div>
+
+	<div id="Reports" class="tabcontent">
+		<img src="img/deeneyreports.png" alt="">
+	</div>
+
+	<div id="Assignments" class="tabcontent">
+		<img src="img/deeneyassignments.png" alt="">
+	</div>
+
+	<div id="Bio" class="tabcontent">
+		<img src="img/deeneybio1.png" alt="">
+		<img src="img/deeneybio2.png" alt="">
+	</div>
+
+	<div id="History" class="tabcontent">
+		<img src="img/deeneyhistory.png" alt="">
+	</div>
+
+	<div id="Notes" class="tabcontent">
+		<img src="img/deeneynotes.png" alt="">
 	</div>
 
 
-	# Profiles
 
-	![](img/scout7playerprofileannotated.png)
+	<script>
+		function openPage(pageName, elmnt, color) {
+			// Hide all elements with class="tabcontent" by default */
+			var i, tabcontent, tablinks;
+			tabcontent = document.getElementsByClassName("tabcontent");
+			for (i = 0; i < tabcontent.length; i++) {
+				tabcontent[i].style.display = "none";
+			}
 
-	*Edited Scout7 Player Profile with Jamie Benson's additions and annotation*
+			// Remove the background color of all tablinks/buttons
+			tablinks = document.getElementsByClassName("tablink");
+			for (i = 0; i < tablinks.length; i++) {
+				tablinks[i].style.backgroundColor = "";
+			}
 
-	Watford requests:
+			// Show the specific tab content
+			document.getElementById(pageName).style.display = "block";
 
-	> "Within the platform there will be a database of players from around the world which when Searched or clicked on,
-	will link to an individual page.
-	>
-	> The player profile will have key background information clearly displayed, as well as an audit of activity based
-	on any reports, notes or information scouts have added to his profile.
-	>
-	> Additionally, he will have statistical information based on clearly defined KPI’s and a table/chart highlighting
-	his scores given (if he has been reported on).
-	>
-	> User-configurable widgets/views to show useful information
-	>
-	> Polygon (top right) to show both FM data and/or metrics
-	>
-	> Graph/Table (bottom left) to be user configurable/change axes based on user reports"
+			// Add the specific color to the button used to open the tab content
+			elmnt.style.backgroundColor = color;
+		}
 
-	***
-
-	- Player profiles will be similar to those found in FM, but altered to provide relevant information.
-	- As in FM, a player’s profile will have different features when they play for the user’s team than if they play for
-	another team.
-
-	- Overview
-	- Dashboard style player overview
-
-	- FM Attributes
-	- With real-life seasonal data
-
-	- Reports
-	- Actual reports from scouts
-	- Generated reports using game code
-
-	- Valuation
-	- Transfer value estimate
-	- Wage estimate
-	- Breakdown of how these figures are calculated
-
-	- Contract
-	- All contractual details, clauses
-	- Contract history (not MVP)
-
-	- Stats
-	- Current season and historical statistics
-	- Data visualisation
-	- Positional player radars
-	- Playing Style analysis
-	- Ranking against team/league/world
-	- Needs dedicated data partner
-
-	- Health
-	- FM injury history for historical injury data
-	- Data partner such as physioroom for current season
-
-	- Training
-	- Integration of training data
-
-	- Comparison
-	- Compare on statistical metrics or FM data
-
-	- Media
-	Links to social media and recent pertinent news stories
-
-	- Bio
-	- FM generated bio
-	- Wikipedia links (Watford like this)
-
-	- History
-	- Playing HIstory
-	- Colleague History
-	- Query finding everyone that the player has played with or played for in the past and highlighting current
-	team/staff members
-
-	Longer term a video player/clip editor will be integrated into a player's profile if a suitable data provider can be
-	found.
+		// Get the element with id="defaultOpen" and click on it
+		document.getElementById("defaultOpen").click();
 
 
-	![Scout7 Profile](img/rodakscout7profile.png)
-
-	*Example of a Scout7 profile*
-
-	![Smarterscout](img/smarterscout.png)
-
-	*Player Profile screen from Smarterscout*
-
-	![Smarterscout radar](img/smarterscoutradar.png)
-
-	*Player Radar from Smarterscout*
+	</script>

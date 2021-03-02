@@ -811,3 +811,39 @@ button {
   padding: 1em;
   box-shadow: 3px lightgrey;
 }
+
+.tablinkplayer {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 10%;
+}
+
+.tablinkplayer:hover {
+  background-color: #777;
+}
+
+#customise {
+  transform: scale(0.8);
+  margin: 0 auto;
+  align-items: center;
+  display:block;
+  box-shadow:1px 1px lightgray;
+  border-radius: 25%;
+
+} 
+
+.reports img{
+  max-width: 80%;
+  margin: 0 auto;
+  display: block;
+}
+
+.tablinkreports {
+  width: 25%
+}
