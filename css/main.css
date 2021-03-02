@@ -833,7 +833,7 @@ button {
   margin: 0 auto;
   align-items: center;
   display:block;
-  box-shadow:1px 1px lightgray;
+  box-shadow: 1px 1px lightgray;
   border-radius: 25%;
 
 } 
