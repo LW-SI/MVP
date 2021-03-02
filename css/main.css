@@ -371,6 +371,10 @@ small,
   transform: translate3d(0, 0, 0);
 }
 
+.nav-search{
+  border-radius: 1em;
+} 
+
 @media (min-width: 768px) {
   .navbar-header .navbar-toggle {
     display: none;
@@ -751,6 +755,59 @@ button {
 }
 
 .identifier {
-  display: flex;
+  display: block;
   margin: auto;
+  background-color: lightgrey;
+  text-align: center;
+  font-size: 2em;
+}
+
+.identifier h1 {
+  text-align: center;
+  align-items: center;
+}
+
+#record-page {
+  display: flex!important;
+}
+
+.page-info {
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 20%;
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color: black;
+  display: flex;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+.tabcontent img {
+  width: 100%;
+}
+
+.watfordn img{
+  display: inline;
+  width: 45%;
+  border: 2px solid black;
+  padding: 1em;
+  box-shadow: 3px lightgrey;
 }

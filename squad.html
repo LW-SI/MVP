@@ -42,7 +42,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="../">
+                <a class="navbar-brand" href="./index.html">
                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                         viewBox="76.39 132.243 15.35 22" width="20" height="20" fill="#777">
                         <defs>
@@ -53,40 +53,93 @@
                         <use xlink:href="#a" />
                     </svg>
                 </a>
-                <a class="navbar-brand" href="./">FMdB Pro Demo</a>
+                <a class="navbar-brand" href="./index.html"> <img src="img/header-logo-desktop-large-fm21.svg"
+                        alt=""></a>
             </div>
             <div class="navbar-collapse">
                 <ul class="navbar-nav nav main-nav">
-                    <li><a href="./">Home</a></li>
-                    <li><a href="./reports">Reports</a></li>
-                    <li><a href="./planner">Planner</a></li>
-                    <li><a href="./squad">Squad</a></li>
-                    <li><a href="./shortlist">Shortlists</a></li>
-                    <li><a href="./features">Additional Features</a></li>
-                    <li><a href="./about">About</a></li>
-                    <li><a href="./userstories">User Stories</a></li>
-                    <li right="400px"><a href="./search"><img src="img/search--v2.png" height="15" width="15">Search</a>
-                    </li>
+                    <li><a href="./index.html">HOME</a></li>
+                    <li><a href="./reports.html">REPORTS</a></li>
+                    <li><a href="./planner.html">PLANNER</a></li>
+                    <li><a href="./squad.html">SQUAD</a></li>
+                    <li><a href="./shortlist.html">SHORTLISTS</a></li>
+                    <li right="400px"><a href="./search.html"><img src="img/search--v2.png" height="15"
+                                width="15">SEARCH</a></li>
+                    <li><input class="nav-search" type="textbox" placeholder=""></li>
                 </ul>
             </div>
         </div>
     </div>
-    # Squad
+
+    <div class="identifier">
+        <h1>Squad</h1>
+    </div>
 
 
-    Scout7 Squad screen:
+    <button class="tablink" onclick="openPage('Overview', this, 'red')" id="defaultOpen">Overview</button>
+    <button class="tablink" onclick="openPage('Squad', this, 'green')">Squad</button>
+    <button class="tablink" onclick="openPage('Report', this, 'blue')">Team Report</button>
+    <button class="tablink" onclick="openPage('Fixtures', this, 'purple')">Fixtures</button>
+    <button class="tablink" onclick="openPage('News', this, 'orange')">News</button>
 
-    ![](img/scout7watfordsquad.png)
+    <div id="Overview" class="tabcontent">
+        <img src="img/watfordoverview.png" alt="">
+    </div>
+
+    <div id="Squad" class="tabcontent">
+        Scout7 Squad screen: <img src="img/scout7watfordsquad.png" alt="">
+    </div>
+
+    <div id="Report" class="tabcontent">
+        Team Report <img src="img/fmteamreport.png" alt="">
+
+        Squad Depth <img src="img/fmsquaddepth.png" alt="">
+        <p>In addition to Current Squad Depth, it would also be useful to have:</p>
+        <ul>
+            <li> - Conceptual Depth (user can add shortlisted players in to see where they would fit into their squad)
+            </li>
+            <li>- Future Depth (including youth players, contract expiry and future transfers)</li>
+        </ul>
 
 
-    ### Team Report
 
-    ![](img/fmteamreport.png)
+    </div>
 
-    ### Squad Depth
+    <div id="Fixtures" class="tabcontent">
+        <img src="img/watfordfixtures.png" alt="">
+    </div>
 
-    In addition to Current Squad Depth, it would also be useful to have:
-    - Conceptual Depth (user can add shortlisted players in to see where they would fit into their squad)
-    - Future Depth (including youth players, contract expiry and future transfers)
+    <div id="News" class="tabcontent">
+        <div class="watfordn">
+            <img src="img/watfordnews.png" alt="" class="watfordnews">
+            <img src="img/watfordtwitter.png" alt="" class="watfordnews">
 
-    ![](img/fmsquaddepth.png)
+        </div>
+
+        <script>
+
+            function openPage(pageName, elmnt, color) {
+                // Hide all elements with class="tabcontent" by default */
+                var i, tabcontent, tablinks;
+                tabcontent = document.getElementsByClassName("tabcontent");
+                for (i = 0; i < tabcontent.length; i++) {
+                    tabcontent[i].style.display = "none";
+                }
+
+                // Remove the background color of all tablinks/buttons
+                tablinks = document.getElementsByClassName("tablink");
+                for (i = 0; i < tablinks.length; i++) {
+                    tablinks[i].style.backgroundColor = "";
+                }
+
+                // Show the specific tab content
+                document.getElementById(pageName).style.display = "block";
+
+                // Add the specific color to the button used to open the tab content
+                elmnt.style.backgroundColor = color;
+            }
+
+            // Get the element with id="defaultOpen" and click on it
+            document.getElementById("defaultOpen").click();
+
+        </script>
